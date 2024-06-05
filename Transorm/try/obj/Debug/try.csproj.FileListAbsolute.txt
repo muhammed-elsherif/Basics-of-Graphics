@@ -1,0 +1,30 @@
+E:\university\3st grade\2nd term\Graphics\project\try\try\obj\Debug\try.csproj.AssemblyReference.cache
+E:\university\3st grade\2nd term\Graphics\project\try\try\obj\Debug\try.MainForm.resources
+E:\university\3st grade\2nd term\Graphics\project\try\try\obj\Debug\try.Properties.Resources.resources
+E:\university\3st grade\2nd term\Graphics\project\try\try\obj\Debug\try.csproj.GenerateResource.cache
+E:\university\3st grade\2nd term\Graphics\project\try\try\obj\Debug\try.csproj.CoreCompileInputs.cache
+E:\university\3st grade\2nd term\Graphics\project\try\try\bin\Debug\@try.exe.config
+E:\university\3st grade\2nd term\Graphics\project\try\try\bin\Debug\@try.exe
+E:\university\3st grade\2nd term\Graphics\project\try\try\bin\Debug\@try.pdb
+E:\university\3st grade\2nd term\Graphics\project\try\try\obj\Debug\@try.exe
+E:\university\3st grade\2nd term\Graphics\project\try\try\obj\Debug\@try.pdb
+C:\Users\PC\Downloads\try\try\bin\Debug\@try.exe.config
+C:\Users\PC\Downloads\try\try\bin\Debug\@try.exe
+C:\Users\PC\Downloads\try\try\obj\Debug\try.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\try\try\obj\Debug\try.MainForm.resources
+C:\Users\PC\Downloads\try\try\obj\Debug\try.Properties.Resources.resources
+C:\Users\PC\Downloads\try\try\obj\Debug\try.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\try\try\obj\Debug\try.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\try\try\obj\Debug\@try.exe
+C:\Users\PC\Downloads\try\try\obj\Debug\@try.pdb
+C:\Users\PC\Downloads\try\try\bin\Debug\@try.pdb
+C:\Users\PC\OneDrive\Desktop\Graphics-Trans\try\bin\Debug\@try.exe.config
+C:\Users\PC\OneDrive\Desktop\Graphics-Trans\try\bin\Debug\@try.exe
+C:\Users\PC\OneDrive\Desktop\Graphics-Trans\try\bin\Debug\@try.pdb
+C:\Users\PC\OneDrive\Desktop\Graphics-Trans\try\obj\Debug\try.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\Graphics-Trans\try\obj\Debug\try.MainForm.resources
+C:\Users\PC\OneDrive\Desktop\Graphics-Trans\try\obj\Debug\try.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\Graphics-Trans\try\obj\Debug\try.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\Graphics-Trans\try\obj\Debug\try.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\Graphics-Trans\try\obj\Debug\@try.exe
+C:\Users\PC\OneDrive\Desktop\Graphics-Trans\try\obj\Debug\@try.pdb
